@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and unicorn
 
 Purple
 Pink
@@ -6,4 +6,5 @@ Orange
 Blue
 Green
 Yellow
+Unicorn
 Red
